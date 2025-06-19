@@ -1,7 +1,12 @@
 {
   "name": "background-gen-ts",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
   "directories": {
     "test": "test"
   },
